@@ -1,5 +1,7 @@
 <div id="arena">
 
+  <div id="bird"></div>
+
   <div id="enemy" class="bloque_enemy">
     <div id="enemy_card1"><img src="resources/cards/E01N02.PNG" width="160"/></div>
     <div id="enemy_card2"><img src="resources/cards/E01N01.PNG" width="160"/></div>
