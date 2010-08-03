@@ -2,12 +2,12 @@
 
 #enemy_card1 {position: absolute; width: 160px; height: 200px; left: 55px; top:15px;}
 #enemy_card2 {position: absolute; width: 160px; height: 200px; left: 225px; top:15px;}
-#enemy_card3 {position: absolute; width: 160px; height: 200px; left: 385px; top:15px;}
-#enemy_card4 {position: absolute; width: 160px; height: 200px; left: 555px; top:15px;}
-#enemy_card5 {position: absolute; width: 160px; height: 100px; left: 725px; top:15px;}
+#enemy_card3 {position: absolute; width: 160px; height: 200px; left: 395px; top:15px;}
+#enemy_card4 {position: absolute; width: 160px; height: 200px; left: 565px; top:15px;}
+#enemy_card5 {position: absolute; width: 160px; height: 100px; left: 735px; top:15px;}
 
 #player_card1 {position: absolute; width: 160px; height: 200px; left: 55px; top:360px;}
 #player_card2 {position: absolute; width: 160px; height: 200px; left: 225px; top:360px;}
-#player_card3 {position: absolute; width: 160px; height: 200px; left: 385px; top:360px;}
-#player_card4 {position: absolute; width: 160px; height: 200px; left: 555px; top:360px;}
-#player_card5 {position: absolute; width: 160px; height: 100px; left: 725px; top:360px;}
+#player_card3 {position: absolute; width: 160px; height: 200px; left: 395px; top:360px;}
+#player_card4 {position: absolute; width: 160px; height: 200px; left: 565px; top:360px;}
+#player_card5 {position: absolute; width: 160px; height: 100px; left: 735px; top:360px;}
